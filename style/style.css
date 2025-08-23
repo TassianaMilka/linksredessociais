@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Krona+One&display=swap');
+
+
+*{
+
+  background-color: #000000;
+}
+
+.exibir{
+
+    margin: 0 auto;
+    width: 80%;
+    box-shadow: 0 15px 30px #000000, 0 11px 8px #ffa500;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration:none;
+  }
+
+
+  .descricao__exibir{
+
+    color: #ffffff;
+    margin-top:2.5rem;
+    padding: 0 15px 15px 15px;
+    text-align: center;
+    text-decoration:none;
+    border: 2px solid #ffa500;
+    text-align: center;
+    text-decoration:none;
+    font-size: large;
+  }
